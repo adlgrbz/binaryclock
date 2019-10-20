@@ -6,4 +6,5 @@ Binary Clock with Tkinter
 ## Requirements
 Only Dependencies for Debian based systems: `apt-get install python3 python3-tk`
 ### How do you read the clock ?
+Sorry, I misspelled it. Minutes and seconds need to be replaced.
 ![demo image](https://raw.githubusercontent.com/adlgrbz/binary-clock/master/demo/read-how.jpg)
