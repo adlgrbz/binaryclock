@@ -1,0 +1,8 @@
+[Desktop Entry]
+Type=Application
+Name=BinaryClock
+Exec=/usr/local/bin/binaryclock %F
+Icon=binaryclock
+Terminal=false
+Categories=Utility
+MimeType=text/x-python;
